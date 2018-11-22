@@ -1,0 +1,21 @@
+{
+    "product" : [
+        {
+            "คันที่" : 1,
+            "โหลด" : 35,
+            "ระยะทาง" : "สลัดผัก",
+            "unitPrice" : "120",
+            "thumbnail" : "/image/product/food.jpg"
+           
+        },
+        {
+            "คันที่" : 2,
+            "โหลด" : 35,
+            "ระยะทาง" : "สลัดผัก",
+            "unitPrice" : "120",
+            "thumbnail" : "/image/product/food.jpg"
+        }
+
+    ],
+    "order" : []
+}

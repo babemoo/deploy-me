@@ -1,0 +1,19 @@
+
+@font-face{
+  font-family : 'Promp-Regular';
+  src: url('/font/Promp-Regular.ttf')
+}
+@font-face{
+  font-family : 'Promp-Medium';
+  src: url('/font/Promp-Medium.ttf')
+}
+@font-face{
+  font-family : 'Promp-Bold';
+  src: url('/font/Promp-Bold.ttf')
+}
+้h1,h2,h3,h4,h5,h6{
+  font-family : 'Promp-Medium';
+}
+.title{
+  font-family : 'Promp-Regular';
+}
